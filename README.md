@@ -1,2 +1,2 @@
-# MLOps
-Here I Upload the Impleamentation of MLOps
+# DS
+Here I Upload the Impleamentation of DS
